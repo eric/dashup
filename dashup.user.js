@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        dashup-v2
+// @name        dashup
 // @namespace   http://sevenscale.com
 // @description Automatically update dash once a minute
 // @include     https://dash.fiveruns.com/reports/*
