@@ -1,0 +1,6 @@
+Dashup
+======
+
+A simple greasemonkey plugin to auto-refresh dash.fiveruns.com reports.
+
+Go to http://github.com/eric/dashup/raw/master/dashup.user.js to install.
